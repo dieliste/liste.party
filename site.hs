@@ -51,6 +51,17 @@ main =
         makeItem "" >>= loadAndApplyTemplate "templates/mitmachen.html" ctx >>=
           loadAndApplyTemplate "templates/default.html" ctx >>=
           relativizeUrls
+    create ["wahlprogramm.html"] $ do
+      route idRoute
+      compile $ do
+        wahlprogramm <- thesesCompiler "blocks/wahlprogramm/*.md"
+        let wahlprogrammCtx =
+              constField "title" "Wahlprogramm" `mappend` constField "wahlprogramm" wahlprogramm `mappend`
+              defaultContext
+        makeItem "" >>= loadAndApplyTemplate "templates/wahlprogramm.html" wahlprogrammCtx >>=
+          loadAndApplyTemplate "templates/default.html" wahlprogrammCtx >>=
+          relativizeUrls
+
     create ["index.html"] $ do
       route idRoute
       compile $ do
