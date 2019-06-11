@@ -1,6 +1,6 @@
 ---
 title: 2. Spitzenkandidat
-pic: /images/liste_banner.jpg
+pic: /images/maxi.png
 ---
 
 Maxi wird nicht als Gründervater der Liste **DIE LISTE - TUM** in die Geschichtsbücher eingehen.  
