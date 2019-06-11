@@ -1,5 +1,5 @@
 ---
-title: 2. Spitzenkandidat
+title: 2. Spitzenkandidat (Informatik)
 pic: /images/maxi.png
 ---
 
