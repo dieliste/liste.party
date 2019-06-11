@@ -1,5 +1,5 @@
 ---
-title: Spitzenkandidat
+title: Spitzenkandidat (Senat und Informatik)
 pic: /images/philip.jpg
 ---
 Philip Höbler wird sich in für Studenten bisher unbekannte Territorien vorwagen: Hochschulpolitik!
