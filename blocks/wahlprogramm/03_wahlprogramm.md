@@ -4,7 +4,7 @@ pic: images/allquantor.png
 ---
 
 
-Mit unserem Namen stehen wir für Leistungsdruck, Informationskompetenz, Selbstbeweihräucherung, Tutorenvernichtung und Exmatrikulationsprävention.
+Mit unserem Namen stehen wir für Leistungsdruck, Informationskompetenz, Selbstbeweihräucherung, Tutorenvergiftung und Exmatrikulationsprävention.
 
 * Modernisierung: Wir fordern eine Modernisierung des Campus. Dazu gehört eine bessere Stromversorgung und eine höhere Verbindungsrate des Eduroams. 
 * Sicherheit am Campus: Die Sicherheit am Campus liegt uns sehr am Herzen. Wir wollen alle Studierenden auf die mangelhaften Schlösser der Schließfächer aufmerksam machen.
