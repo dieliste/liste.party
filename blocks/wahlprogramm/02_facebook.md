@@ -1,5 +1,5 @@
 ---
-title: Unabhängige Forschung &mdash; ein Auslaufmodell?
+title: Unabhängige Forschung? Wir gehen mit der Zeit!
 pic: images/facebook.jpg
 ---
 
