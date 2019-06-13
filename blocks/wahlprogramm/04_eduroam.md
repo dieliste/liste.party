@@ -1,6 +1,6 @@
 ---
 title: Besseren eduroam vong Speed her
-pic: images/eduroam.png 
+pic: images/5g.jpg
 ---
 
 Auch die LISTE setzt auf zukunftsweisende Drahtloskommunikationstechnologien. Die Betreiber des Eduroams behaupten, dass die sinnvolle Access Point-Dichte erreicht ist. Wir behaupten: Die sinnvolle Dichte ist erst erreicht, wenn das eduroam schlapp macht. Wir fordern den sofortigen Ausbau des eduroams - besonders die Abdeckung auf den Toiletten ist mehr als unzufriedenstellend. Lange Sitzungen können so schon einmal in Langeweile ausarten. Wir fordern die Installation von Access Points an allen Donnerbalken. Hörsäle, die nahe an diesen Ausbaugebieten liegen profitieren natürlich auch von der zusätzlichen Netzabdeckung.
