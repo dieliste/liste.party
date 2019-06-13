@@ -4,4 +4,4 @@ pic: /images/philip.jpg
 ---
 **Philip Höbler** (aka **Der Pöbler**) wird sich in für Studierende bisher unbekannte Territorien vorwagen: Hochschulpolitik!
 
-In der verbleibenden Zeit spielt Philip gerne Klavier und studiert auch ein wenig.
+Da er eindeutig zu viel Zeit hat, tritt er gleichzeitig für den Senat und in der Fakultät Informatik an. Sein Ziel ist einzig und allein die Anhäufung von Macht und Einfluss.
