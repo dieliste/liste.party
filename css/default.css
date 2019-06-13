@@ -53,11 +53,24 @@ nav a:hover {
 article {
  padding:1rem
 }
+
 footer {
- margin-top:3rem;
+ background-color: rgb(185,16,15);
  padding:1.2rem 0;
- font-size:1.2rem;
- color:#555
+ font-size: 1.2rem;
+ text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li {
+    display: inline-block;
+}
+
+footer ul li a {
+    color: white;
 }
 
 h1 {
