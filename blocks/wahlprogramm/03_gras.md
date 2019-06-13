@@ -1,6 +1,6 @@
 ---
 title: Mehr Gras am Campus
-pic: images/gras.png 
+pic: images/gras.jpg
 ---
 
 Die LISTE fordert einen grünen Campus, 
