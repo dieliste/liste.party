@@ -1,6 +1,6 @@
 ---
 title: Am 2. Juli ist Hochschulwahl!
-pic: foo
+pic: /images/trivial.png
 ---
 Die LISTE kämpft bereits zum dritten Mal in Folge um Einfluss auf das Schicksal unserer Universität,
 dieses Jahr zum ersten mal auch im Senat.
