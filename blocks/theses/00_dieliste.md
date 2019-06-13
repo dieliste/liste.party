@@ -1,11 +1,11 @@
 ---
 title: Die LISTE für ...
-pic: /images/liste_banner.jpg
+pic: /images/liste.png
 ---
-**L**eistungsdruck  
-**I**nformationskompetenz  
-**S**elbstbeweihräucherung     
-**T**utorenvergiftung     
-**E**xmatrikulationsprävention
+* **L**eistungsdruck,
+* **I**nformationskompetenz,
+* **S**elbstbeweihräucherung,
+* **T**utorenbespaßung und
+* **E**xmatrikulationsprävention
 
-ist eine hochschulpolitische Vereinigung an der **Top University Munich**, kurz TUM.
+ist eine hochschulpolitische Gruppe an der **Top University Munich**, kurz TUM.
