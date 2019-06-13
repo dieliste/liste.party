@@ -1,8 +1,6 @@
 ---
-title: 2. Spitzenkandidat (Senat und Physik)
+title: Der Gründervater
 pic: /images/felix.jpg
 ---
-Felix Wechsler wird sich weiterhin für euch Studierende einsetzen.
-Nachdem er bereits in der Informatik alles erreicht hat, möchte er nun die Physik und den Senat listefizieren.
-
-Felix löst gerne Fourierintegrale in seiner Freizeit.
+**Felix Wechsler** wird als Gründervater der Liste **Die LISTE** an der TUM in die Geschichtsbücher eingehen.
+Nachdem Felix ein Jahr lang seine Zeit für euch im Fakultätsrat abgesessen hat, lehnt er sich nun zurück und überlässt den Jungspunden der LISTE die Arbeit.
