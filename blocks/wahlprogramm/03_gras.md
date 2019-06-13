@@ -3,8 +3,5 @@ title: Mehr Gras am Campus
 pic: images/gras.jpg
 ---
 
-Die LISTE fordert einen grünen Campus, 
-
-Zum Beispiel wollen wir sämtliche Dächer der TUM für den Anbau diverser Nutzpflanzen verwenden.
-
-Unser Vorschlag ist die konsequente AufforsTUM aller Freiflächen am Campus.
+Die LISTE will einen **grünen Campus**, beispielsweise durch den Anbau diverser Nutzpflanzen auf den Dächern der TUM.
+Wir fordern außerdem die konsequente **AufforsTUM** aller Freiflächen am Campus.
