@@ -61,6 +61,16 @@ main =
         makeItem "" >>= loadAndApplyTemplate "templates/wahlprogramm.html" wahlprogrammCtx >>=
           loadAndApplyTemplate "templates/default.html" wahlprogrammCtx >>=
           relativizeUrls
+    create ["datenschutz.html"] $ do
+      route idRoute
+      compile $ do
+        datenschutz <- thesesCompiler "blocks/datenschutz/*.md"
+        let datenschutzCtx =
+              constField "title" "Datenschutz" `mappend` constField "datenschutz" datenschutz `mappend`
+              defaultContext
+        makeItem "" >>= loadAndApplyTemplate "templates/datenschutz.html" datenschutzCtx >>=
+          loadAndApplyTemplate "templates/default.html" datenschutzCtx >>=
+          relativizeUrls
 
     create ["index.html"] $ do
       route idRoute
