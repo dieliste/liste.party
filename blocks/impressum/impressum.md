@@ -3,14 +3,14 @@ title: Impressum
 pic: /images/liste_banner.jpg 
 ---
 
-## Betreiber
+### Betreiber
 Diese Website wird von der Liste Die LISTE - vertreten durch ihre momentanen Spitzenkandidaten ([Link](https://liste.party/about.html)) betrieben.
 
-## Kontakt
+### Kontakt
 [info@liste.party](mailto:info@liste.party) oder der Kandidat deiner Wahl.
 
 
-Anschrift:
+#### Anschrift:
 
 Die LISTE
 
