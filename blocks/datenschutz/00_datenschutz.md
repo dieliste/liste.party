@@ -34,4 +34,4 @@ Wir sind halt schon immer Vorreiter gewesen.
 Lol nein.
 
 ## Kontakt
-Hier Kontaktmöglichkeit einfügen
+Siehe Impressum.

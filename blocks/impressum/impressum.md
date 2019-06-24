@@ -1,5 +1,5 @@
 ---
-title: Datenschutz
+title: Impressum
 pic: /images/liste_banner.jpg 
 ---
 
@@ -13,4 +13,4 @@ Lichtenbergstraße 3
 85748 Garching bei München
 
 ## Kontakt
-[info@liste.party](mailto:info@liste.party)
+[info@liste.party](mailto:info@liste.party) oder der Kandidat deiner Wahl.
