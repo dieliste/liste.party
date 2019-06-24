@@ -71,6 +71,16 @@ main =
         makeItem "" >>= loadAndApplyTemplate "templates/datenschutz.html" datenschutzCtx >>=
           loadAndApplyTemplate "templates/default.html" datenschutzCtx >>=
           relativizeUrls
+    create ["impressum.html"] $ do
+      route idRoute
+      compile $ do
+        impressum <- thesesCompiler "blocks/impressum/*.md"
+        let impressumCtx =
+              constField "title" "Impressum" `mappend` constField "impressum" impressum `mappend`
+              defaultContext
+        makeItem "" >>= loadAndApplyTemplate "templates/impressum.html" impressumCtx >>=
+          loadAndApplyTemplate "templates/default.html" impressumCtx >>=
+          relativizeUrls
 
     create ["index.html"] $ do
       route idRoute
