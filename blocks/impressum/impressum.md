@@ -8,14 +8,3 @@ Diese Website wird von der Liste Die LISTE - vertreten durch ihre momentanen Spi
 
 ### Kontakt
 [info@liste.party](mailto:info@liste.party) oder der Kandidat deiner Wahl.
-
-
-#### Anschrift:
-
-Die LISTE
-
-Lernraum 2.201
-
-Lichtenbergstraße 3
-
-85748 Garching bei München
