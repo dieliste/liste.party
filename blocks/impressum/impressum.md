@@ -4,6 +4,7 @@ pic: /images/liste_banner.jpg
 ---
 
 ### Betreiber
+Nicht der Pöbler!
 Diese Website wird von der Liste Die LISTE - vertreten durch ihre momentanen Spitzenkandidaten ([Link](https://liste.party/about.html)) betrieben.
 
 ### Kontakt
