@@ -1,5 +1,5 @@
 ---
-title: Am 2. Juli ~~ist~~ war Hochschulwahl!
+title: Am 2. Juli <del>ist</del> war Hochschulwahl!
 pic: /images/trivial.png
 ---
 Die LISTE kämpft bereits zum dritten Mal in Folge um Einfluss auf das Schicksal unserer Universität,
