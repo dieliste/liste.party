@@ -1,11 +1,11 @@
 ---
-title: Am 2. Juli ist Hochschulwahl!
+title: Am 2. Juli ~~ist~~ war Hochschulwahl!
 pic: /images/trivial.png
 ---
 Die LISTE kämpft bereits zum dritten Mal in Folge um Einfluss auf das Schicksal unserer Universität,
-dieses Jahr zum ersten Mal auch im Senat.
+2019 zum ersten Mal auch im Senat.
 
-Wenn auch du uns deine Zukunft anvertrauen möchtest, dann gib uns **deine Stimme am 2. Juli** in [deiner Fakultät](https://www.sv.tum.de/wahl/).
+Schade, dass ihr uns nicht eure Zukunft anvertraut, es hat leider nicht gereicht. Trotzdem danke für **deine Stimme**!
 
 * [Unsere Kandidaten](/about.html)
 * [Unser Walprogramm](/wahlprogramm.html)
